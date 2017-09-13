@@ -18,7 +18,7 @@
  *
  *************************************************************************************/
 
-class PJ3 {
+class play-poker {
 
     public static void main(String args[]) 
     {
